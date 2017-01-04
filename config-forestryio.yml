@@ -1,0 +1,41 @@
+---
+name: 9Stars
+description: Designer
+avatar: https://avatars0.githubusercontent.com/u/514297?v=3&s=96
+footer-links:
+  dribbble: jas9
+  email: 
+  facebook: 
+  flickr: 
+  github: jas9
+  instagram: jas9
+  linkedin: 
+  pinterest: 
+  rss: 
+  twitter: jas9
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+disqus: 
+google_analytics: 
+url: 
+baseurl: ''
+permalink: "/:title/"
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+sass:
+  style: ":expanded"
+gems:
+- jekyll-sitemap
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
+timezone: Asia/Shanghai
