@@ -65,8 +65,9 @@ html {
 
 body {
   background: #fff;
-  font: 18px/1.5 200 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 18px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
+  font-weight: 200;
 }
 
 .container {
@@ -80,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
   font-weight: 300;
-  line-height: 2;
+  line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
 }
@@ -275,7 +276,7 @@ nav a {
 @media screen and (max-width: 640px) {
   nav a {
     margin: 0 10px;
-    color: #4183C4;
+    color: #08c;
   }
 }
 
