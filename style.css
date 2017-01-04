@@ -306,6 +306,13 @@ nav a {
 .post .read-more {
   text-transform: uppercase;
   font-size: 0.875rem;
+  border-radius: 1rem;
+  background: #08c;
+  color: #fff;
+  padding: .5rem;
+}
+.post .read-more:hover, .post .read-more:active {
+  background: #0af;
 }
 
 .wrapper-footer {
