@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/Hello-World/</loc>
+<loc>https://jas9.github.io/9stars//is-forestry-io-really-a-wordpress-killer/</loc>
+<lastmod>2017-01-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://jas9.github.io/9stars//Hello-World/</loc>
 <lastmod>2016-12-13T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/404/</loc>
+<loc>https://jas9.github.io/9stars//404/</loc>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>https://jas9.github.io/9stars//about/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://jas9.github.io/9stars//</loc>
 </url>
 <url>
-<loc>/admin/index.html</loc>
-<lastmod>2017-01-04T08:09:19+00:00</lastmod>
+<loc>https://jas9.github.io/9stars//admin/index.html</loc>
+<lastmod>2017-01-05T01:53:59+00:00</lastmod>
 </url>
 </urlset>

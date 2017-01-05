@@ -1,10 +1,10 @@
 ---
-name: 9Stars
-description: Designer
+name: Jas's 9Stars
+description: I am a designer living in Taiwan.
 avatar: https://avatars0.githubusercontent.com/u/514297?v=3&s=96
 footer-links:
   dribbble: jas9
-  email: 
+  email: jaschyo@gmail.com
   facebook: 
   flickr: 
   github: jas9
@@ -16,9 +16,9 @@ footer-links:
   stackoverflow: 
   youtube: 
   googleplus: 
-disqus: 
-google_analytics: 
-url: 
+disqus: 9Stars
+google_analytics: UA-89880204-1
+url: https://jas9.github.io/9stars/
 baseurl: ''
 permalink: "/:title/"
 version: v1.2.0
